@@ -1,0 +1,20 @@
+{
+  "name": "compose-sort",
+  "version": "1.0.0",
+  "description": "Compose multiple sorting functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sort",
+    "sorting",
+    "order",
+    "ascending",
+    "descending",
+    "array",
+    "list"
+  ],
+  "author": "bryandbor",
+  "license": "ISC"
+}
