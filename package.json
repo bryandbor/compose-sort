@@ -15,6 +15,17 @@
     "array",
     "list"
   ],
-  "author": "bryandbor",
-  "license": "ISC"
+  "author": {
+    "name": "Bryan Bor",
+    "email": "bryandbor@gmail.com"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/bryandbor/compose-sort",
+  "bugs": {
+    "url": "https://github.com/bryandbor/compose-sort/issues"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/bryandbor/compose-sort.git"
+  }
 }
